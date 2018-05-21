@@ -13,7 +13,11 @@ let info = Vue.extend({
 									<span class="glyphicon glyphicon-signal" title="QQ"></span>
 									<code>415767688</code><br>
 									<span class="glyphicon glyphicon-envelope" title="Email"></span>
-									<code>follitude.jer@qq.com</code>
+									<code>follitude.jer@qq.com</code><br>
+									<span class="glyphicon glyphicon-book" title="github"></span>
+									<code><a href="https://github.com/KinGoing">进入我的GitHub</a></code><br>
+									<span class="glyphicon glyphicon-tags" title="Email"></span>
+									<code>完美主义</code><code>自学</code>
 								</address>
 							</div>
 						</div>
